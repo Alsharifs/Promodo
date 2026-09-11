@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- الخلفية -->
+  <rect width="400" height="400" fill="#f4f4f4" rx="40"/>
+  
+  <!-- إطار الكيندل / القارئ الإلكتروني -->
+  <rect x="70" y="40" width="260" height="320" rx="15" fill="#2c2c2c"/>
+  <rect x="85" y="60" width="230" height="250" fill="#e0e0e0"/>
+  
+  <!-- زر الكيندل السفلي -->
+  <circle cx="200" cy="335" r="8" fill="#555"/>
+  
+  <!-- شعار KOReader (الشبح المبسط) مدمج مع بومودورو -->
+  <!-- جسم البومودورو / الشبح -->
+  <path d="M140 190 C140 140, 260 140, 260 190 C260 230, 240 250, 200 250 C160 250, 140 230, 140 190 Z" fill="#ff4757"/>
+  
+  <!-- الأوراق الخضراء من الأعلى -->
+  <path d="M190 140 Q200 120 210 140 Q215 130 220 140 Q200 150 190 140 Z" fill="#2ed573"/>
+  
+  <!-- عيون الشبح (هوية KOReader) -->
+  <circle cx="180" cy="180" r="8" fill="#ffffff"/>
+  <circle cx="220" cy="180" r="8" fill="#ffffff"/>
+  <circle cx="180" cy="180" r="3" fill="#2c2c2c"/>
+  <circle cx="220" cy="180" r="3" fill="#2c2c2c"/>
+  
+  <!-- عقارب الساعة الدالة على الوقت / التركيز -->
+  <line x1="200" y1="195" x2="200" y2="215" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  <line x1="200" y1="215" x2="215" y2="215" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+</svg>
